@@ -3,8 +3,8 @@ title_left    : "Menhera"
 title_right   : "C" # default: ""
 description   : "NOTHING"
 keywords      : ""
-url           : https://menheracat.github.io # site url
-baseurl       :  # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
+url           : "https://menheracat.github.io" # site url
+baseurl       : "" # apply repo name like "/myproject" if used under gh-pages branch, else (under master branch) just leave empty/blank
 cover         : "" # image uri like logo/cover image for site seo
 
 google_analytics  : UA-XXXXX-XX
